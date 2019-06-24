@@ -1,0 +1,10 @@
+target/classes/application.properties
+target/classes/com/example/productapp/ProductAppApplication.class
+target/classes/com/example/productapp/ProductController.class
+target/classes/static/index.html
+target/classes/templates/products.ftl
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/test-classes/com/example/productapp/ProductAppApplicationTests.class
